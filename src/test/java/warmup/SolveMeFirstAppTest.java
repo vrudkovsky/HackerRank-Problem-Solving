@@ -12,7 +12,8 @@ class SolveMeFirstAppTest {
     public void solveMeFirst() {
         int a = 2;
         int b = 3;
+        int expected = 5;
         int actual = SolveMeFirstApp.solveMeFirst(a, b);
-        assertEquals(5, actual);
+        assertEquals(expected, actual);
     }
 }
