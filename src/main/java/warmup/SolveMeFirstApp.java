@@ -1,10 +1,12 @@
 package warmup;
-
 import java.util.*;
+
+/**
+ * https://www.hackerrank.com/challenges/solve-me-first/problem
+ */
 
 public class SolveMeFirstApp {
     static int solveMeFirst(int a, int b) {
-        // Hint: Type return a+b; below
         return a + b;
     }
     public static void main(String[] args) {
