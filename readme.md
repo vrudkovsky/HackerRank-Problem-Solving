@@ -41,3 +41,80 @@ All HackerRand's test cases passed.
 | :--- | :--- | :---: |
 | 00 |  |  |
 | 01 |  |  |
+
+### Strings
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
+
+### Sorting
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
+
+### Search
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
+
+### Graph_Theory
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
+
+### Greedy
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
+
+### Dynamic_Programming
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
+
+### Constructive_Algorithms
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
+
+### Bit_Manipulation
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
+
+### Recursion
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
+
+### Game_Theory
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
+
+### NP_Complete
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 |  |  |
+| 01 |  |  |
