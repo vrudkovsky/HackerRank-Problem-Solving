@@ -15,14 +15,14 @@ All HackerRand's test cases passed.
 - [Strings](#Strings)
 - [Sorting](#Sorting)
 - [Search](#Search)
-- [Graph Theory](#Graph Theory)
+- [Graph_Theory](#Graph_Theory)
 - [Greedy](#Greedy)
-- [Dynamic Programming](#Dynamic Programming)
-- [Constructive Algorithms](#Constructive Algorithms)
-- [Bit Manipulation](#Bit Manipulation)
+- [Dynamic_Programming](#Dynamic_Programming)
+- [Constructive_Algorithms](#Constructive_Algorithms)
+- [Bit_Manipulation](#Bit_Manipulation)
 - [Recursion](#Recursion)
-- [Game Theory](#Game Theory)
-- [NP Complete](#NP Complete)
+- [Game_Theory](#Game_Theory)
+- [NP_Complete](#NP_Complete)
 
 
 
