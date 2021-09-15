@@ -37,6 +37,7 @@ All HackerRand's test cases passed.
 | 04 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Java](src/main/java/warmup/DiagonalDifference.java) |
 | 05 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Java](src/main/java/warmup/Staircase.java) |
 | 06 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Java](src/main/java/warmup/MiniMaxSum.java) |
+| 07 | [Mini-Max Sum](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Java](src/main/java/warmup/BirthdayCakeCandles.java) |
 
 ### Implementation
 
