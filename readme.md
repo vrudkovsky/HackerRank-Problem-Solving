@@ -35,9 +35,11 @@ All HackerRand's test cases passed.
 | 02 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Java](src/main/java/warmup/CompareTriplets.java) |
 | 03 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](src/main/java/warmup/VeryBigSum.java) |
 | 04 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Java](src/main/java/warmup/DiagonalDifference.java) |
-| 05 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Java](src/main/java/warmup/Staircase.java) |
-| 06 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Java](src/main/java/warmup/MiniMaxSum.java) |
-| 07 | [Mini-Max Sum](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Java](src/main/java/warmup/BirthdayCakeCandles.java) |
+| 05 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Java](src/main/java/warmup/PlusMinus.java) |
+| 06 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Java](src/main/java/warmup/Staircase.java) |
+| 07 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Java](src/main/java/warmup/MiniMaxSum.java) |
+| 08 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Java](src/main/java/warmup/BirthdayCakeCandles.java) |
+| 09 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Java](src/main/java/warmup/TimeConversion.java) |
 
 ### Implementation
 
