@@ -34,6 +34,7 @@ All HackerRand's test cases passed.
 | 01 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Java](src/main/java/warmup/SimpleArraySum.java) |
 | 02 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Java](src/main/java/warmup/CompareTriplets.java) |
 | 03 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](src/main/java/warmup/VeryBigSum.java) |
+| 04 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Java](src/main/java/warmup/DiagonalDifference.java) |
 
 ### Implementation
 

@@ -81,10 +81,11 @@ public class CompareTriplets {
     }
 
     public static List<Integer> comparev4(List<Integer> a, List<Integer> b) {
-        return IntStream.range(0, a.size()).mapToObj(i -> new Counter(
-                a.get(i) > b.get(i)? 1 : 0,
-                a.get(i) < b.get(i)? 1 : 0
-        )).reduce((c1, c2) -> new Counter(c1.cnt1 + c2.cnt1, c1.cnt2 + c2.cnt2))
+        return IntStream.range(0, a.size()).mapToObj(i ->
+                new Counter(
+                    a.get(i) > b.get(i)? 1 : 0,
+                    a.get(i) < b.get(i)? 1 : 0
+                )).reduce((c1, c2) -> new Counter(c1.cnt1 + c2.cnt1, c1.cnt2 + c2.cnt2))
                 .orElseThrow(RuntimeException::new)
                 .toList();
     }
