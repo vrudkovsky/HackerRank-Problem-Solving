@@ -45,8 +45,8 @@ All HackerRand's test cases passed.
 
 | ## | Problem | Solution |
 | :--- | :--- | :---: |
-| 00 |  |  |
-| 01 |  |  |
+| 00 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Java](src/main/java/implementation/GradingStudents.java) |
+| 01 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [Java](src/main/java/implementation/NumberLineJumps.java) |
 
 ### Strings
 
