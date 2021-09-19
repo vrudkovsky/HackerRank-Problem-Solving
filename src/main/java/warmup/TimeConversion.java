@@ -6,11 +6,14 @@ import java.io.InputStreamReader;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 import java.util.Date;
+import java.util.Locale;
 
 public class TimeConversion {
 
-    public static String timeConversion(String s) {
+    public static String timeConversion1(String s) {
         // Write your code here
         String time = "";
         try {
@@ -23,6 +26,13 @@ public class TimeConversion {
         }
 
         return time;
+
+    }
+
+    public static String timeConversion(String s) {
+        // Write your code here
+        return LocalTime.parse(s, DateTimeFormatter.ofPattern("hh:mm:ss a", Locale.US))
+                .format(DateTimeFormatter.ofPattern("HH:mm:ss"));
 
     }
 

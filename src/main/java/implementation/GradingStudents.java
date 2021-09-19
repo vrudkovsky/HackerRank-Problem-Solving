@@ -7,6 +7,10 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+/**
+ * https://www.hackerrank.com/challenges/grading/problem
+ */
+
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
@@ -24,8 +28,14 @@ public class GradingStudents {
         return round(x);
     }
 
+    public static List<Integer> gradingStudents1(List<Integer> grades) {
+        return grades.stream().map(x -> isModified(x) ? modify(x) : x).collect(toList());
+    }
+
     public static List<Integer> gradingStudents(List<Integer> grades) {
-        return grades.stream().map(x -> isModified(x) ? modify(x) : x).collect(Collectors.toList());
+        return grades.stream().map(g ->
+                g < 38 ? g : g % 5 > 2 ? (g / 5 + 1) * 5 : g
+        ).collect(toList());
     }
 
     public static void main(String[] args) throws IOException {
