@@ -45,8 +45,24 @@ All HackerRand's test cases passed.
 
 | ## | Problem | Solution |
 | :--- | :--- | :---: |
-| 00 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Java](src/main/java/implementation/GradingStudents.java) |
-| 01 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [Java](src/main/java/implementation/NumberLineJumps.java) |
+| 00 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Java] |
+| 01 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Java](src/main/java/implementation/GradingStudents.java) |
+| 02 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Java] |
+| 03 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [Java](src/main/java/implementation/NumberLineJumps.java) |
+| 04 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Java] |
+| 05 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Java] |
+| 06 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Java] |
+| 07 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Java] |
+| 08 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Java] |
+| 09 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Java] |
+| 10 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Java] |
+| 11 | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Java] |
+| 12 | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [Java] |
+| 13 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Java] |
+| 14 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Java] |
+| 15 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | [Java] |
+| 16 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Java] |
+| 17 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Java] |
 
 ### Strings
 
