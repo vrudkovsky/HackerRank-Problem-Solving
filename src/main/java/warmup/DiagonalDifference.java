@@ -118,7 +118,6 @@ public class DiagonalDifference {
             }
         });
 
-
         int result = resultv1(arr);
         System.out.println(result);
 
