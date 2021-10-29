@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class MaxElement2DArray {
     public static int getMaxElementv1(int[][] matrix) {
         return Arrays.stream(Arrays.stream(matrix)
-                .flatMapToInt(i -> Arrays.stream(i))
+                .flatMapToInt(Arrays::stream)
                 .toArray())
                 .max().getAsInt();
     }
