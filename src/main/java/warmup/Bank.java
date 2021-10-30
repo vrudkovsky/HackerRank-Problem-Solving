@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.Locale;
 
 public class Bank {
-
     public static String makeAbbr(String fullName) {
         // write your code here
         String string = fullName.toUpperCase();
@@ -21,5 +20,4 @@ public class Bank {
         String s = "central processing unit";
         System.out.println(makeAbbr(s));
     }
-
 }
