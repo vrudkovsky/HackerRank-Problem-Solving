@@ -6,10 +6,9 @@ import java.util.Locale;
 public class RemoveLetter {
 
     public static char[] removeLetter(String s) {
-        if (s == null) return new char[0];
-        String str = s.toLowerCase();
-        String r = str.replaceAll("r", "!");
-        return r.toCharArray();
+        return (s == null)?
+                new char[0] :
+                s.toLowerCase().replaceAll("r", "!").toCharArray();
     }
 
     public static void main(String[] args) {
