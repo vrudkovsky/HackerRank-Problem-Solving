@@ -2,7 +2,7 @@ package warmup;
 
 import java.util.Arrays;
 
-public class MaxElement2DArray {
+public class MaxElement2DArray{
     public static int getMaxElementv1(int[][] matrix) {
         return Arrays.stream(Arrays.stream(matrix)
                 .flatMapToInt(Arrays::stream)
