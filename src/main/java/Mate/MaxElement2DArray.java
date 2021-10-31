@@ -1,4 +1,4 @@
-package warmup;
+package Mate;
 
 import java.util.Arrays;
 

@@ -1,9 +1,6 @@
-package warmup;
+package Mate;
 
-import java.util.Arrays;
-import java.util.Locale;
-
-public class Bank {
+public class MakeAbbr {
     public static String makeAbbr(String fullName) {
         // write your code here
         String string = fullName.toUpperCase();
