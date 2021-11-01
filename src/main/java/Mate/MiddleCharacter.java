@@ -1,5 +1,10 @@
 package Mate;
 
+/**
+ * Створи метод getMiddleCharacter(), що приймає рядок і повертає центральний символ
+ * (або 2 центральних символи, якщо довжина рядка парна) у вигляді рядка.
+ */
+
 public class MiddleCharacter {
     public static String getMiddleCharacter(String s) {
         char[] cs = s.toCharArray();
