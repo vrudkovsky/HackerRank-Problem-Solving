@@ -1,4 +1,4 @@
-package Mate;
+package mate_jv_basic;
 
 /**
  * Створи метод removeOddChars(), що приймає рядок і повертає його, перед цим видаливши непарні символи.

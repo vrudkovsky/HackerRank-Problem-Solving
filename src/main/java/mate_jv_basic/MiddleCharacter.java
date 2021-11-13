@@ -1,4 +1,4 @@
-package Mate;
+package mate_jv_basic;
 
 /**
  * Створи метод getMiddleCharacter(), що приймає рядок і повертає центральний символ

@@ -1,6 +1,4 @@
-package Mate;
-
-import java.util.Arrays;
+package mate_jv_basic;
 
 /**
  * Count chars of strings placed in the odd positions in the given array.

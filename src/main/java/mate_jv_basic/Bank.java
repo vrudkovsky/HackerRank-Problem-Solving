@@ -1,7 +1,4 @@
-package Mate;
-
-import java.util.Arrays;
-import java.util.Locale;
+package mate_jv_basic;
 
 public class Bank {
     public static String makeAbbr(String fullName) {

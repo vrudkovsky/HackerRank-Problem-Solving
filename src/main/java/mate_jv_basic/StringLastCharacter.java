@@ -1,4 +1,4 @@
-package Mate;
+package mate_jv_basic;
 
 /**
  * Implement method that takes String as an input and returns its last character.

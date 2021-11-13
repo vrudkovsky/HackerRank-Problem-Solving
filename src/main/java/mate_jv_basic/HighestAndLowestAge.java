@@ -1,8 +1,6 @@
-package Mate;
+package mate_jv_basic;
 
 import java.util.Arrays;
-
-import static java.util.Arrays.*;
 
 public class HighestAndLowestAge {
 

@@ -1,4 +1,4 @@
-package Mate;
+package mate_jv_basic;
 
 public class PaginationService {
     private String[] data;

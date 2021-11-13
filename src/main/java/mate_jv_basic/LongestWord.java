@@ -1,4 +1,4 @@
-package Mate;
+package mate_jv_basic;
 
 import java.util.Arrays;
 

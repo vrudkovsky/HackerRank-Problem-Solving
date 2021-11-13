@@ -1,4 +1,4 @@
-package Mate;
+package mate_jv_basic;
 
 /**
  * Implement method that takes an array of integers and returns the smallest element of the array.

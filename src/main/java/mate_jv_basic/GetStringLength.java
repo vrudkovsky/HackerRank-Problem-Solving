@@ -1,4 +1,4 @@
-package Mate;
+package mate_jv_basic;
 
 /**
  * Implement method stringLength(), which takes String as an argument and returns its length.
