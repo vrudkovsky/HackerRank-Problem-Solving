@@ -1,15 +1,15 @@
 package mate_jv_core;
 
 public class IntToBnr {
-    public static String convertIntToBnrStr(int number) {
+    public static String convertIntToBnrStr(int value) {
         StringBuilder sb = new StringBuilder();
-        if (number == 0) {
+        if (value == 0) {
             sb.append("0");
         }
-        while (number > 0) {
-            String s = number % 2 == 0 ? "0" : "1";
+        while (value > 0) {
+            String s = value % 2 == 0 ? "0" : "1";
             sb.append(s);
-            number /= 2;
+            value /= 2;
         }
         return String.valueOf(sb.reverse());
     }
